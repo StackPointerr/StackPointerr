@@ -1,4 +1,4 @@
-## Hi there 👋
+![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
 
 <!--
 **StackPointerr/StackPointerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
